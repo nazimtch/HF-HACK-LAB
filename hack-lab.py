@@ -1,3 +1,4 @@
+#git vscode change
 import os
 os.system ("clear")
 password = input ("ENTER THE PASSWORD TO USE THIS TOOL : ")
